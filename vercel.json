@@ -4,11 +4,6 @@
       "maxDuration": 10
     }
   },
-  "env": {
-    "EMAIL_USER": "@email_user",
-    "EMAIL_APP_PASSWORD": "@email_app_password", 
-    "OWNER_EMAIL": "@owner_email"
-  },
   "rewrites": [
     {
       "source": "/",
