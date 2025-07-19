@@ -1,0 +1,16 @@
+{
+  "name": "amulya-portfolio",
+  "version": "1.0.0",
+  "description": "Amulya PR's Portfolio with Contact Form",
+  "main": "index.html",
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build required for static site'"
+  },
+  "keywords": ["portfolio", "contact-form", "vercel"],
+  "author": "Amulya PR",
+  "license": "MIT"
+} 
