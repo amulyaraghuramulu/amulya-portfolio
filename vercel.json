@@ -19,8 +19,12 @@
       "destination": "/frontend/assets/$1"
     },
     {
-      "source": "/(.*\\.(css|js))",
-      "destination": "/frontend/$1"
+      "source": "/styles.css",
+      "destination": "/frontend/styles.css"
+    },
+    {
+      "source": "/script.js",
+      "destination": "/frontend/script.js"
     }
   ]
 } 
